@@ -1,0 +1,28 @@
+{
+  "uuid": "fe2e0cf2-463f-4ec8-9119-056732230673",
+  "shortName": "bullseye-watchface",
+  "longName": "bullseye-watchface",
+  "companyName": "James Anderson",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_BACKGROUND",
+        "file": "images/background.png"
+      }
+    ]
+  },
+  "targetPlatforms": [
+    "aplite",
+    "basalt"
+  ],
+  "sdkVersion": "3"
+}
